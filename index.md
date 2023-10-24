@@ -3,10 +3,15 @@
   title: Doan Truong Xuan's CV  
 ---
 # Doan Truong Xuan 
+
 👨‍💻Embedded Software Engineer  🏠Hochiminh city  
+
+---
 
 ## About
 Highly skilled Automotive Embedded Engineer with 3 years of experience in developing and optimizing embedded software for engine and transmission control systems. Proven track record in achieving significant improvements in fuel efficiency, emissions reduction, system reliability, and performance. Collaborative team player with expertise in communication protocols, microprocessors, and diagnostic tools.
+
+---
 
 ## Skills and competencies
 - AUTOSAR, ASPICE, ISO 26262, MISRA, UDS
@@ -28,30 +33,37 @@ Highly skilled Automotive Embedded Engineer with 3 years of experience in develo
 - Cross-functional collaboration
 - Embedded hardware knowledge
 
+---
+
 ## Work experiences
-`October 2022 - Present`
 __Bosch Global Software Technologies Vietnam__
+
+`October 2022 - Present`
 - Senior Embedded Software Engineer
 
-`September 2020 - October`
 __Bosch Global Software Technologies Vietnam__
+
+`September 2020 - October`
 - Embedded Software Engineer
 
-`Oct 2018 - Mar 2019`
 __Company limited liability commercial & service The Gioi Chip__
+
+`Oct 2018 - Mar 2019`
 - Electronics Engineering Intern
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
-`jan 2018 - Sep 2018`
 __TanThanh-Tech · Part-timeTanThanh-Tech · Part-time__
+
+`jan 2018 - Sep 2018`
 - Mechatronics Engineering intern
- - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
- - write firmware for ESP8266 and Stm32f103 (C language).
- - Design PCB, enclosure, and design 3d model for prototyping.
- - Operating CNC machine to engrave PCB
+- Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
+- write firmware for ESP8266 and Stm32f103 (C language).
+- Design PCB, enclosure, and design 3d model for prototyping.
+- Operating CNC machine to engrave PCB
+
+---
 
 ## Education
-
 `2015 - 2020`
 __Industrial University of Ho Chi Minh City__
 - Engineer's degree, MechatronicsEngineer's degree, Mechatronics
