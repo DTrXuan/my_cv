@@ -10,7 +10,7 @@
 
 ## About
 
-Highly skilled Automotive Embedded Engineer with 3 years of experience in developing and optimizing embedded software for engine and transmission control systems. Proven track record in achieving significant improvements in fuel efficiency, emissions reduction, system reliability, and performance. Collaborative team player with expertise in communication protocols, microprocessors, and diagnostic tools.
+Highly skilled Automotive Embedded Engineer with 4 years of experience in developing and optimizing embedded software for engine and denox control systems. Collaborative team player with expertise in communication protocols, microprocessors, and diagnostic tools.
 
 ---
 
