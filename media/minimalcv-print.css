@@ -1,4 +1,5 @@
 /* //-- yui-grids style overrides -- */
+
 body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 12pt;}
 
 /* //-- header, body, footer -- */
@@ -7,7 +8,7 @@ body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 12pt;
 #bd, #ft { margin-bottom: 2em; }
 div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%; padding-left: 5%; padding-right: 10%;}
 div#content {background-color: #f8f8f8}
-code { font: normal normal;	font-size: 100%; font-family: monospace; color: #aaa;}
+code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
 
 /* //-- core typography and style -- */
 h1 { font-size: 30px; text-transform: uppercase; letter-spacing: 3px; }
@@ -24,7 +25,7 @@ ul {margin: 0%;}
 /* image */
 
 img[alt = "icon"]{
-    max-height: 10pt;
+    max-height: 1em;
 }
 
 

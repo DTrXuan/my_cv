@@ -25,7 +25,7 @@ ul {margin: 0%;}
 /* image */
 
 img[alt = "icon"]{
-    max-height: 12pt;
+    max-height: 1em;
 }
 
 
