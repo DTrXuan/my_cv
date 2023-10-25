@@ -6,7 +6,7 @@ body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 12pt;
 #hd { margin: 2.5em 10em 3em 0; padding-bottom: 1.5em; border-bottom: 10px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
-div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%; padding-left: 5%; padding-right: 10%;}
+div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%;}
 div#content {background-color: #f8f8f8}
 code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
 
@@ -26,7 +26,7 @@ ul {margin: 0%;}
 
 img[alt = "icon"]{
     max-height: 1em;
-    height: 12px;
+    height: 13px;
 }
 
 
