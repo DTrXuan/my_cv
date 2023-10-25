@@ -1,4 +1,4 @@
-![image](https://github.com/DTrXuan/my_cv/assets/38099198/b22a7bf7-cbbd-4440-ba99-936a8b3c7444)---
+---
   layout: cv
   title: Doan Truong Xuan's CV  
 ---
