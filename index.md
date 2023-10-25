@@ -87,7 +87,6 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 **Responsiblity**
 
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
-- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
 
