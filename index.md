@@ -10,7 +10,11 @@
 
 ## About
 
-Highly skilled Automotive Embedded Engineer with 4 years of experience in developing and optimizing embedded software for engine and denox control systems. Collaborative team player with expertise in communication protocols, microprocessors, and diagnostic tools.
+I am an experienced Automotive Embedded Engineer with four years of work in the field. I'm skilled at creating and improving software for car engines and denox systems. I'm good at working with others and know a lot about communication, microprocessors, and diagnostic tools, which are important in the car industry.
+
+Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool
+
+Outside of work, I enjoy trying new technology and building things as a hobby. This helps me learn and use my engineering skills.
 
 ---
 
