@@ -4,7 +4,7 @@
 ---
 # Doan Truong Xuan
 
-![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) dtruongxuan.cdt@gmail.com ![icon](https://github.com/DTrXuan/my_cv/assets/38099198/2615b03b-22af-4325-8a75-535742aadc7e) +84945405234
+![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) dtruongxuan.cdt@gmail.com ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
 
 ---
 
@@ -52,7 +52,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-#### Senior Embedded Software Engineer `October 2022 - Present`
+#### Senior Embedded Software Engineer 
+`October 2022 - Present`
+
 **responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
 
 **topic:**
@@ -65,6 +67,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Embedded Software Engineer 
 `September 2020 - October`
+
 **responsiblity:** involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
 **topic:**
 - Implement new and adjust exist CAN frame for communication module across ECU on CAN topology
