@@ -20,6 +20,9 @@ Outside of work, I enjoy trying new technology and building things as a hobby. T
 
 ## Skills and competencies
 
+- Strong debugging & Problem-solving skills
+- Hands on experience with debugging tools such as debuggers, oscilloscopes.
+- Good English language skills (Reading, Writing, Speaking and Listening)
 - AUTOSAR, ASPICE, ISO 26262, MISRA, UDS
 - Communication Protocol: CAN, UART, I2C, SPI
 - Programming Languages: C/C++, CAPL, Python
@@ -46,14 +49,19 @@ Outside of work, I enjoy trying new technology and building things as a hobby. T
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
-
-
+- my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
+- topic:
+  - UDS/KWP/WWHOBD Services implementation.
+  - UDS/KWP/WWHOBD Protocol implementation.
+  - Customer Bootloader for Flashing via Customer specific tool.
 
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
 #### Embedded Software Engineer `September 2020 - October`
-
-
+- responsiblity: involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
+- topic:
+  - Implement new and adjust exist CAN frame for communication module across ECU on CAN topology
+  - Implement new and adjust UDS/KWP Diagnostic Message, Functionality for specific OEM requirment. 
 
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
 
