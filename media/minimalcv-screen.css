@@ -16,7 +16,7 @@ h2 { font-size: 120%; margin: 0%; padding-left: -5%;}
 h3 { font-size: 110%; margin-top: 1%; margin-bottom: 0;} 
 h4 { font-size: 90%; margin: 0%; font-style: normal;}
 h1, h2, h3, h4 { color: #414141;}
-p { font-size: 100%; margin: 0%;}
+p { font-size: 100%; margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li {font-size: 100%}
