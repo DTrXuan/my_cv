@@ -10,11 +10,11 @@
 
 ## About
 
-I am an experienced Automotive Embedded Engineer with four years of work in the field. I'm skilled at creating and improving software for car engines and denox systems. I'm good at working with others and know a lot about communication, microprocessors, and diagnostic tools, which are important in the car industry.
+I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems. I am good at teamwork which is crucial in automotive industry . I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. Additionally, my familiarity with CAN, LIN, and UDS on CAN, along with my understanding of hardware design, make me a valuable asset in the field. I'm open to furthering my knowledge in areas such as Function Safety or Security if needed, further enhancing my potential contributions to the automotive embedded engineering domain. I am a self-motivated, lifelong learner who is constantly keen to increase my knowledge and abilities.
 
-Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool
+Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
-Outside of work, I enjoy trying new technology and building things as a hobby. This helps me learn and use my engineering skills.
+Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
 ---
 
