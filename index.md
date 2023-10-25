@@ -4,15 +4,30 @@
 ---
 # Doan Truong Xuan
 
-###### ![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer   ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city   ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) dtruongxuan.cdt@gmail.com   ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
+###### ![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer
+
+{: .info}
+
+###### ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city
+
+{: .info}
+
+###### ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
+
+{: .info}
+
+###### ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) <dtruongxuan.cdt@gmail.com>
+
+{: .info}
+
 
 ---
 
 ## About
 
-I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems. 
+I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
-I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. Additionally, I have strong knowledge in communication protocol (CAN, XCP, UART,SPI, I2C), and diagnostic standard (UDS, KWP, WWHOBD) along with my understanding of hardware design, make me a valuable asset in the field. 
+I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. Additionally, I have strong knowledge in communication protocol (CAN, XCP, UART,SPI, I2C), and diagnostic standard (UDS, KWP, WWHOBD) along with my understanding of hardware design, make me a valuable asset in the field.
 
 I'm willing to furthering my knowledge in areas such as Function Safety or Security if needed, enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork which is crucial in automotive industry. Also, I am a self-motivated, lifelong learner who is constantly keen to increase my knowledge and abilities.
 
@@ -50,7 +65,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ## Work experiences
 
+{:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
+
 
 #### Senior Embedded Software Engineer
 
@@ -65,7 +82,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - UDS/KWP/WWHOBD Protocol implementation.
 - Customer Bootloader for Flashing via Customer specific tool.
 
+{:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
+
 
 #### Embedded Software Engineer
 
@@ -78,7 +97,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Implement new and adjust exist CAN frame for communication module across ECU on CAN topology
 - Implement new and adjust UDS/KWP Diagnostic Message, Functionality for specific OEM requirment.
 
+{:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
+
 
 #### Electronics Engineering Intern
 
@@ -89,7 +110,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
+{:.company}
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
+
 
 #### Mechatronics Engineering intern
 
@@ -108,6 +131,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ### Industrial University of Ho Chi Minh City
 
-#### Engineer's degree, MechatronicsEngineer's degree, Mechatronics 
+#### Engineer's degree, MechatronicsEngineer's degree, Mechatronics
 
 ##### `2015 - 2020`
+
+[^1]: This is the footnote.

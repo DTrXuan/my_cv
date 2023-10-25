@@ -1,6 +1,6 @@
 /* //-- yui-grids style overrides -- */
 
-body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 25px;}
+body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 110%;}
 
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 10em 3em 0; padding-bottom: 1.5em; border-bottom: 10px solid #ccc }
@@ -8,15 +8,15 @@ body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 25px;
 #bd, #ft { margin-bottom: 2em; }
 div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%;}
 div#content {background-color: #f8f8f8; margin-left: 5%;margin-right: 5%;}
-code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
+code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #bec9e4;}
 
 /* //-- core typography and style -- */
 /* top CV */
-h1 { font-size: 40px; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center }
-h6 { font-size: 20px; align-content: center; align-items: center; text-align: center;}
-
-h2 { font-size: 120%; margin: 0%; padding-left: -5%;}
-h3 { font-size: 110%; margin-top: 1%; margin-bottom: 0;} 
+h1 { font-size: 200%; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center; border-style: dashed;}
+h6 { font-size: 90%; align-content: center; align-items: center; text-align: right; margin: 0%;}
+h6#-embedded-software-engineer {text-align: center}
+h2 {font-size: 150%; margin: 0%; padding-left: -5%;}
+h3.company { font-size: 120%; margin-top: 1%; margin-bottom: 0; }
 h4 { font-size: 90%; margin: 0%; font-style: normal;}
 h1, h2, h3, h4 { color: #414141;}
 h5 {font-size: 100%; margin-top: 0%;margin-bottom: 0%}
@@ -29,8 +29,8 @@ ul {margin: 0%;}
 /* image */
 
 img[alt = "icon"]{
-    max-height: 1em;
-    height: 35px;
+    max-height: 17px;
+    height: 10%;
 }
 
 
