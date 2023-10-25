@@ -7,7 +7,7 @@ body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 12pt;
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
 div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%;}
-div#content {background-color: #f8f8f8}
+div#content {background-color: #f8f8f8 margin-left: 5%;margin-right: 5%;}
 code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
 
 /* //-- core typography and style -- */
