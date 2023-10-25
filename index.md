@@ -1,11 +1,10 @@
 ---
-  layout: cv  
+  layout: cv
   title: Doan Truong Xuan's CV  
 ---
 # Doan Truong Xuan
 
-👨‍💻Embedded Software Engineer  🏠Hochiminh city  
-<!-- markdownlint-capture -->
+👨‍💻Embedded Software Engineer 🏠 Hochiminh city  
 
 ---
 
@@ -40,30 +39,28 @@ Highly skilled Automotive Embedded Engineer with 3 years of experience in develo
 
 ## Work experiences
 
-__Bosch Global Software Technologies Vietnam__
+### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-`October 2022 - Present`
+#### Senior Embedded Software Engineer `October 2022 - Present`
 
-- Senior Embedded Software Engineer
 
-__Bosch Global Software Technologies Vietnam__
 
-`September 2020 - October`
+### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-- Embedded Software Engineer
+#### Embedded Software Engineer `September 2020 - October`
 
-__Company limited liability commercial & service The Gioi Chip__
 
-`Oct 2018 - Mar 2019`
 
-- Electronics Engineering Intern
+### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
+
+#### Electronics Engineering Intern `Oct 2018 - Mar 2019`
+
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
-__TanThanh-Tech · Part-timeTanThanh-Tech · Part-time__
+### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
 
-`jan 2018 - Sep 2018`
+#### Mechatronics Engineering intern `jan 2018 - Sep 2018` 
 
-- Mechatronics Engineering intern
 - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
 - write firmware for ESP8266 and Stm32f103 (C language).
 - Design PCB, enclosure, and design 3d model for prototyping.
@@ -73,7 +70,6 @@ __TanThanh-Tech · Part-timeTanThanh-Tech · Part-time__
 
 ## Education
 
-`2015 - 2020`
-__Industrial University of Ho Chi Minh City__
+### Industrial University of Ho Chi Minh City
 
-- Engineer's degree, MechatronicsEngineer's degree, Mechatronics
+#### Engineer's degree, MechatronicsEngineer's degree, Mechatronics `2015 - 2020`

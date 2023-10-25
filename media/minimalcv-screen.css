@@ -1,32 +1,32 @@
-.msg { padding: 10px; background: #222; position: relative; }
-.msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
-.msg a:hover { background: #266400; }
-
 /* //-- yui-grids style overrides -- */
-body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 14pt;}
-#inner { padding: 10px 80px; margin: 100px auto; background: #604343; border: solid #666; border-width: 8px 2px 2px 0; }
+
+body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 12pt;}
 
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 10em 3em 0; padding-bottom: 1.5em; border-bottom: 10px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
-div#content {background-color: #f8f8f8; padding-left: 5%; padding-right: 10%;}
-code {color: #990003;}
+div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%; padding-left: 5%; padding-right: 10%;}
+div#content {background-color: #f8f8f8}
+code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
 
 /* //-- core typography and style -- */
-h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
-h2 { font-size: 100% }
-h3, h4 { font-size: 100%; }
-h1, h2, h3, h4 { color: #414141; }
-p { font-size: 100%; line-height: 30px;}
+h1 { font-size: 30px; text-transform: uppercase; letter-spacing: 3px; }
+h2 { font-size: 120%; margin: 0%; padding-left: -5%;}
+h3 { font-size: 110%; margin-top: 1%; margin-bottom: 0;} 
+h4 { font-size: 90%; margin: 0%; font-style: normal;}
+h1, h2, h3, h4 { color: #414141;}
+p { font-size: 100%; margin: 0%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li {font-size: 100}
+li {font-size: 100%}
+ul {margin: 0%;}
 
-/* //-- section styles -- */
-a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
-a#pdf:hover { background: #222; }
+/* image */
+
+img[alt = "icon"]{
+    max-height: 12pt;
+}
 
 
 /* //-- footer -- */
