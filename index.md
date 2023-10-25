@@ -4,7 +4,7 @@
 ---
 # Doan Truong Xuan
 
-![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) dtruongxuan.cdt@gmail.com ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
+###### ![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer   ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city   ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) dtruongxuan.cdt@gmail.com   ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
 
 ---
 
@@ -52,39 +52,50 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-#### Senior Embedded Software Engineer 
-`October 2022 - Present`
+#### Senior Embedded Software Engineer
+
+##### `October 2022 - Present`
 
 **responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
 
 **topic:**
-- ECU-Test base test package for validating UDS Services      
+
+- ECU-Test base test package for validating UDS Services
 - UDS/KWP/WWHOBD Services implementation.
 - UDS/KWP/WWHOBD Protocol implementation.
 - Customer Bootloader for Flashing via Customer specific tool.
 
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-#### Embedded Software Engineer 
-`September 2020 - October`
+#### Embedded Software Engineer
+
+##### `September 2020 - October`
 
 **responsiblity:** involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
+
 **topic:**
+
 - Implement new and adjust exist CAN frame for communication module across ECU on CAN topology
-- Implement new and adjust UDS/KWP Diagnostic Message, Functionality for specific OEM requirment. 
+- Implement new and adjust UDS/KWP Diagnostic Message, Functionality for specific OEM requirment.
 
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
 
-#### Electronics Engineering Intern 
-`Oct 2018 - Mar 2019`
+#### Electronics Engineering Intern
+
+##### `Oct 2018 - Mar 2019`
+
+**Responsiblity**
 
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
 
-#### Mechatronics Engineering intern 
-`jan 2018 - Sep 2018` 
+#### Mechatronics Engineering intern
+
+##### `jan 2018 - Sep 2018`
+
+**Responsiblity**
 
 - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
 - write firmware for ESP8266 and Stm32f103 (C language).
@@ -98,4 +109,5 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ### Industrial University of Ho Chi Minh City
 
 #### Engineer's degree, MechatronicsEngineer's degree, Mechatronics 
-`2015 - 2020`
+
+##### `2015 - 2020`

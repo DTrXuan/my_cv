@@ -1,6 +1,6 @@
 /* //-- yui-grids style overrides -- */
 
-body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 14pt;}
+body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 25px;}
 
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 10em 3em 0; padding-bottom: 1.5em; border-bottom: 10px solid #ccc }
@@ -8,14 +8,18 @@ body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 14pt;
 #bd, #ft { margin-bottom: 2em; }
 div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%;}
 div#content {background-color: #f8f8f8; margin-left: 5%;margin-right: 5%;}
-code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;  margin-top: 0%; margin-bottom: 0%;}
+code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #625f5f;}
 
 /* //-- core typography and style -- */
-h1 { font-size: 30px; text-transform: uppercase; letter-spacing: 3px; }
+/* top CV */
+h1 { font-size: 40px; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center }
+h6 { font-size: 20px; align-content: center; align-items: center; text-align: center;}
+
 h2 { font-size: 120%; margin: 0%; padding-left: -5%;}
 h3 { font-size: 110%; margin-top: 1%; margin-bottom: 0;} 
 h4 { font-size: 90%; margin: 0%; font-style: normal;}
 h1, h2, h3, h4 { color: #414141;}
+h5 {font-size: 100%; margin-top: 0%;margin-bottom: 0%}
 p { font-size: 100%; margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
@@ -26,7 +30,7 @@ ul {margin: 0%;}
 
 img[alt = "icon"]{
     max-height: 1em;
-    height: 14px;
+    height: 35px;
 }
 
 
