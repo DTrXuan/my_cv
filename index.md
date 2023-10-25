@@ -55,7 +55,8 @@ Highly skilled Automotive Embedded Engineer with 4 years of experience in develo
 
 #### Electronics Engineering Intern `Oct 2018 - Mar 2019`
 
-- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
+- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
+- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
 
