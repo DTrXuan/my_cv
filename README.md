@@ -1,3 +1,3 @@
 ### just my markdown-cv
 
-https://dtrxuan.github.io/my_cv/
+check it out here: https://dtrxuan.github.io/my_cv/
