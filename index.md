@@ -10,9 +10,14 @@
 
 ## About
 
-I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems. I am good at teamwork which is crucial in automotive industry . I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. Additionally, my familiarity with CAN, LIN, and UDS on CAN, along with my understanding of hardware design, make me a valuable asset in the field. I'm open to furthering my knowledge in areas such as Function Safety or Security if needed, further enhancing my potential contributions to the automotive embedded engineering domain. I am a self-motivated, lifelong learner who is constantly keen to increase my knowledge and abilities.
+I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems. I am good at teamwork which is crucial in automotive industry . I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. 
+
+
+Additionally, my familiarity with CAN, LIN, and UDS on CAN, along with my understanding of hardware design, make me a valuable asset in the field. I'm open to furthering my knowledge in areas such as Function Safety or Security if needed, further enhancing my potential contributions to the automotive embedded engineering domain. I am a self-motivated, lifelong learner who is constantly keen to increase my knowledge and abilities.
+
 
 Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
+
 
 Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
@@ -49,7 +54,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
-- my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
+- responsibility: my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
 - topic:
   - UDS/KWP/WWHOBD Services implementation.
   - UDS/KWP/WWHOBD Protocol implementation.
