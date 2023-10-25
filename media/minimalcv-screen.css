@@ -4,7 +4,7 @@
 .msg a:hover { background: #266400; }
 
 /* //-- yui-grids style overrides -- */
-body { font-family: Georgia; color: #444; al}
+body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 14pt;}
 #inner { padding: 10px 80px; margin: 100px auto; background: #604343; border: solid #666; border-width: 8px 2px 2px 0; }
 
 /* //-- header, body, footer -- */
