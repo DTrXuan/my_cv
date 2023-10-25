@@ -51,7 +51,7 @@ baseurl: "/my_cv"
 
 markdown: kramdown
 highlighter: pygments
-permalink: /:title/
+# permalink: /:title/
 style: minimalcv
 
 # The release of Jekyll Now that you're using
