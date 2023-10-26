@@ -13,7 +13,7 @@
     <h6 class="info" id="phone"><img src="https://cdn-icons-png.flaticon.com/128/15/15874.png" alt="icon" /><a href="tel:+840945405234">(+84) 0945 405 234</a></h6>
     <!-- linkedin -->
     <h6 class="info" id="linkedin"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384088.png" alt="icon" />
-    <a href="https://www.linkedin.com/in/doantruongxuan">doantruongxuan</a></h6>
+    <a href="https://www.linkedin.com/in/doantruongxuan">in/doantruongxuan</a></h6>
     <!-- github -->
     <h6 class="info" id="linkedin"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="icon" />
     <a href="https://github.com/DTrXuan">github.com/DTrXuan</a></h6>
@@ -118,5 +118,6 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ### Industrial University of Ho Chi Minh City
 
 #### Engineer's degree, MechatronicsEngineer's degree, Mechatronics `2015 - 2020`
+
 <br>
 <br>
