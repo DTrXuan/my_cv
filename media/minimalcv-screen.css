@@ -1,20 +1,25 @@
-/* //-- yui-grids style overrides -- */
+/* header */
+.personalinfo { display: flex; align-items: center;}
+#leftcol {flex: 65%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
+#rightcol {flex: 35%; border-left: 2px #414141; margin-left: 5%;}
+h1 { font-size: 250%; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center;}
+h6#-embedded-software-engineer {font-size: 100%; text-align: center; margin-bottom: 5%;}
+h6 { font-size: 90%; align-content: center; align-items: center; text-align: left; margin: 1%;}
 
+/* global */
 body { font-family: Georgia; color: #444; font-family: Verdana; font-size: 110%;}
+img[alt = "icon"]{max-height: 17px; height: 10%;}
 
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 10em 3em 0; padding-bottom: 1.5em; border-bottom: 10px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
-div#main {background-color: #f8f8f8; margin-left: 10%;margin-right: 10%;}
-div#content {background-color: #f8f8f8; margin-left: 5%;margin-right: 5%;}
+div#main {background-color: #f8f8f6; margin-left: 10%;margin-right: 10%;}
+div#content {background-color: #f8f8f6; margin-left: 5%;margin-right: 5%;}
 code { font: normal normal;	font-size: 100%; font-style: italic; font-family: monospace; color: #bec9e4;}
 
 /* //-- core typography and style -- */
-/* top CV */
-h1 { font-size: 200%; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center; border-style: dashed;}
-h6 { font-size: 90%; align-content: center; align-items: center; text-align: right; margin: 0%;}
-h6#-embedded-software-engineer {text-align: center; margin: 0%;}
+/* body */
 h2 {font-size: 150%; margin: 0%; padding-left: -5%;}
 h3.company { font-size: 120%; margin-top: 1%; margin-bottom: 0; }
 h4 { font-size: 90%; margin: 0%; font-style: normal;}
@@ -25,15 +30,3 @@ a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li {font-size: 100%}
 ul {margin: 0%;}
-
-/* image */
-
-img[alt = "icon"]{
-    max-height: 17px;
-    height: 10%;
-}
-
-
-/* //-- footer -- */
-#ft { padding: 1em 0 5em 0; font-size: 100%; border-top: 1px solid #ccc; text-align: center; }
-#ft p { margin-bottom: 0; text-align: center;   }

@@ -2,23 +2,27 @@
   layout: cv
   title: Doan Truong Xuan's CV  
 ---
-# Doan Truong Xuan
-
-###### ![icon](https://cdn-icons-png.flaticon.com/128/6009/6009939.png) Embedded Software Engineer
-
-{: .info}
-
-###### ![icon](https://cdn-icons-png.flaticon.com/128/3425/3425073.png) Hochiminh city
-
-{: .info}
-
-###### ![icon](https://cdn-icons-png.flaticon.com/128/12549/12549243.png) +84945405234
-
-{: .info}
-
-###### ![icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png) <dtruongxuan.cdt@gmail.com>
-
-{: .info}
+<div class="personalinfo">
+  <div class="column" id="leftcol">
+    <h1 class="name">Doan Truong Xuan</h1>
+    <h6 id="-embedded-software-engineer"> Embedded Software Engineer</h6>
+  </div>
+  <div class="column" id="rightcol">
+    <!-- phone -->
+    <h6 class="info" id="phone"><img src="https://cdn-icons-png.flaticon.com/128/15/15874.png" alt="icon" /><a href="tel:+840945405234">(+84) 0945 405 234</a></h6>
+    <!-- linkedin -->
+    <h6 class="info" id="linkedin"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384088.png" alt="icon" />
+    <a href="https://www.linkedin.com/in/doantruongxuan">doantruongxuan</a></h6>
+    <!-- github -->
+    <h6 class="info" id="linkedin"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="icon" />
+    <a href="https://github.com/DTrXuan">github.com/DTrXuan</a></h6>
+    <!-- email -->
+    <h6 class="info" id="mail"><img src="https://cdn-icons-png.flaticon.com/128/646/646094.png" alt="icon" /> <a href="mailto:dtruongxuan.cdt@gmail.com">dtruongxuan.cdt@gmail.com</a></h6>
+    <!-- address -->
+    <h6 class="info" id="city"><img src="https://cdn-icons-png.flaticon.com/128/535/535239.png" alt="icon" />
+    Hochiminh city</h6>
+  </div>
+</div>
 
 ---
 
@@ -40,17 +44,17 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 - Strong debugging & Problem-solving skills
 - Software debugging and optimization: debugger UDE (PLS), oscilloscopes
-- Good English language skills (Reading, Writing, Speaking and Listening)
-- Standard AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
+- Automotive testing tools: CANoe, CANalyzer, ETAS INCA
 - Communication Protocol: CAN, UART, I2C, SPI
+- Standard AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
 - Programming Languages: C/C++, CAPL, Python
 - Microcontroller programming: Tc39x, Tc29x, Rh850, STM32, AVR (Atmega arduino), PIC.
 - Software Component Design & Development: ETAS ASCET
 - Modelling/Simulation Tools: Synopsys SILVER
-- Automotive testing tools: CANoe, CANalyzer, ETAS INCA
 - Requirements Engineering: IBM DOORS
 - Version Control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM)
 - Real-time operating systems (RTOS)
+- Good English language skills (Reading, Writing, Speaking and Listening)
 
 ---
 
@@ -119,6 +123,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ## Education
 
+{:.company}
 ### Industrial University of Ho Chi Minh City
 
 #### Engineer's degree, MechatronicsEngineer's degree, Mechatronics
