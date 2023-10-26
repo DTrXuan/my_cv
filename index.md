@@ -35,7 +35,7 @@ I am profiency working in English and have process and quality awareness in soft
 
 I am willing to enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork, which is crucial in automotive industry. Also, I am a self-motivated, able to work independently, a lifelong learner who is constantly keen to increase my knowledge and abilities.
 
-Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
+Right now, I am working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
 Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
