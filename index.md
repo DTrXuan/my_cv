@@ -2,6 +2,7 @@
   layout: cv
   title: Doan Truong Xuan's CV  
 ---
+
 <div class="personalinfo">
   <div class="column" id="leftcol">
     <h1 class="name">Doan Truong Xuan</h1>
@@ -42,6 +43,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ## Skills and competencies
 
+
 - Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA
 - Communication Protocol: CAN, UART, I2C, SPI
 - Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
@@ -55,17 +57,14 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Engineering technique: FMEA, DBRFM, Requirement Engineering
 - Good English language skills (Reading, Writing, Speaking and Listening)
 
----
 
+---
 ## Work experiences
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-
-#### Senior Embedded Software Engineer
-
-##### `October 2022 - Present`
+#### Senior Embedded Software Engineer `October 2022 - Present`
 
 **responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
 
@@ -79,10 +78,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-
-#### Embedded Software Engineer
-
-##### `September 2020 - October`
+#### Embedded Software Engineer `September 2020 - October`
 
 **responsiblity:** involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
 
@@ -95,9 +91,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
 
 
-#### Electronics Engineering Intern
-
-##### `Oct 2018 - Mar 2019`
+#### Electronics Engineering Intern `Oct 2018 - Mar 2019`
 
 **Responsiblity**
 
@@ -107,9 +101,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech Co.Ltd
 
 
-#### Mechatronics Engineering intern
-
-##### `jan 2018 - Sep 2018`
+#### Mechatronics Engineering intern `jan 2018 - Sep 2018`
 
 **Responsiblity**
 
@@ -125,8 +117,6 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 {:.company}
 ### Industrial University of Ho Chi Minh City
 
-#### Engineer's degree, MechatronicsEngineer's degree, Mechatronics
-
-##### `2015 - 2020`
-
-[^1]: This is the footnote.
+#### Engineer's degree, MechatronicsEngineer's degree, Mechatronics `2015 - 2020`
+<br>
+<br>
