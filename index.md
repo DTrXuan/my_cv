@@ -20,16 +20,15 @@
 
 {: .info}
 
-
 ---
 
 ## About
 
 I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
-I am profiency working in English and have process and quality awareness in software development, and strong programming skills in C/C++. Additionally, I have strong knowledge in communication protocol (CAN, XCP, UART,SPI, I2C), and diagnostic standard (UDS, KWP, WWHOBD) along with my understanding of hardware design, make me a valuable asset in the field.
+I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
 
-I'm willing to furthering my knowledge in areas such as Function Safety or Security if needed, enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork which is crucial in automotive industry. Also, I am a self-motivated, lifelong learner who is constantly keen to increase my knowledge and abilities.
+I'm willing to enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork, which is crucial in automotive industry. Also, I am a self-motivated, able to work independently, a lifelong learner who is constantly keen to increase my knowledge and abilities.
 
 Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
@@ -40,26 +39,18 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ## Skills and competencies
 
 - Strong debugging & Problem-solving skills
-- Hands on experience with debugging tools such as debuggers, oscilloscopes.
+- Software debugging and optimization: debugger UDE (PLS), oscilloscopes
 - Good English language skills (Reading, Writing, Speaking and Listening)
-- AUTOSAR, ASPICE, ISO 26262, MISRA, UDS
+- Standard AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
 - Communication Protocol: CAN, UART, I2C, SPI
 - Programming Languages: C/C++, CAPL, Python
-- Microcontroller programming: STM32, AVR (Atmega arduino), PIC.
+- Microcontroller programming: Tc39x, Tc29x, Rh850, STM32, AVR (Atmega arduino), PIC.
 - Software Component Design & Development: ETAS ASCET
-- Visual Design Tool: Microsoft Visio, Draw.io
 - Modelling/Simulation Tools: Synopsys SILVER
 - Automotive testing tools: CANoe, CANalyzer, ETAS INCA
 - Requirements Engineering: IBM DOORS
-- Version Control: Git (GitHub, Bitbucket) SCM
-- Unit testing: ctc++
-- Static code check: QAC
+- Version Control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM)
 - Real-time operating systems (RTOS)
-- Engine control systems
-- Denox control system
-- Software debugging and optimization
-- Cross-functional collaboration
-- Embedded hardware knowledge
 
 ---
 
