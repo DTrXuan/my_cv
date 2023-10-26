@@ -32,7 +32,7 @@ I have four years of experience as an Automotive Embedded Engineer. I am good at
 
 I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
 
-I'm willing to enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork, which is crucial in automotive industry. Also, I am a self-motivated, able to work independently, a lifelong learner who is constantly keen to increase my knowledge and abilities.
+I am willing to enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork, which is crucial in automotive industry. Also, I am a self-motivated, able to work independently, a lifelong learner who is constantly keen to increase my knowledge and abilities.
 
 Right now, I am working on a Diagnostic Stack to meet the requirements of a JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
@@ -42,18 +42,17 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ## Skills and competencies
 
-- Strong debugging & Problem-solving skills
-- Software debugging and optimization: debugger UDE (PLS), oscilloscopes
-- Automotive testing tools: CANoe, CANalyzer, ETAS INCA
+- Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA
 - Communication Protocol: CAN, UART, I2C, SPI
-- Standard AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
+- Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
 - Programming Languages: C/C++, CAPL, Python
-- Microcontroller programming: Tc39x, Tc29x, Rh850, STM32, AVR (Atmega arduino), PIC.
+- Microcontroller programming: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino), PIC.
 - Software Component Design & Development: ETAS ASCET
-- Modelling/Simulation Tools: Synopsys SILVER
-- Requirements Engineering: IBM DOORS
-- Version Control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM)
 - Real-time operating systems (RTOS)
+- Modelling/Simulation Tools: Synopsys SILVER
+- Version control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM)
+- Requirements engineering tool: IBM DOORS
+- Engineering technique: FMEA, DBRFM, Requirement Engineering
 - Good English language skills (Reading, Writing, Speaking and Listening)
 
 ---
@@ -105,7 +104,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
 {:.company}
-### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech · Part-timeTanThanh-Tech · Part-time
+### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech Co.Ltd
 
 
 #### Mechatronics Engineering intern
