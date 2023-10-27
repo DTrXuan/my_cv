@@ -31,9 +31,7 @@
 
 I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
-I am a team player as well as an independent member. A self-motivated, a lifelong learner who is constantly keen to increase my knowledge and abilities.
-
-I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
+I am a team player as well as an independent member. I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
 
 Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
@@ -43,7 +41,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 - Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA
 - Communication Protocol: CAN, UART, I2C, SPI
-- Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD
+- Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD, XCP
 - Programming Languages: C/C++, CAPL, Python
 - Microcontroller programming: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino), PIC.
 - Software Component Design & Development: ETAS ASCET
@@ -67,8 +65,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 **topic:**
 
 - ECU-Test base test package for validating UDS Services: ISO 26565, ISO 14229 plus customer specific.
-- Comunication and Diagnostic functionality developement for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
-- Apply, Encourge Teamber to enhance software quality with CleanCode mindset.
+- Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
+- Software Quality Improvement through CleanCode mindset: insipring, training member to apply.
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
@@ -79,8 +77,11 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 **topic:**
 
-- Communication and Diagnostic Functionality developement for JOEM: UDS,KWP,J1939, CanStack, DiagStack.
-- inovation activity coordinator
+- Communication and Diagnostic Functionality developement and testing for JOEM: UDS,KWP,J1939, CanStack, DiagStack.
+- Inovation activity:
+    - Battery and Key ECU Remote Control for remote testing.
+    - Security Unlock Dll File Generation using ETAS BOA API
+    - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
 
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
