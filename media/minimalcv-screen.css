@@ -2,8 +2,8 @@
 .personalinfo { display: flex; align-items: center;}
 #leftcol {flex: 65%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
 #rightcol {flex: 35%; border-left: 2px #414141; margin-left: 5%;}
-h1 { font-size: 250%; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center; font-style: oblique;}
-h6#-embedded-software-engineer {font-size: 100%; text-align: center; margin-bottom: 5%;}
+h1 { font-size: 200%; align-content:center; transform: uppercase; letter-spacing: 3px; text-align: center; font-style: oblique;}
+h6#-embedded-software-engineer {font-size: 100%; text-align: center; margin-bottom: 1%;}
 h6 { font-size: 90%; align-content: center; align-items: center; text-align: left; margin: 1%;}
 
 /* global: alternative font Garamond Georgia*/

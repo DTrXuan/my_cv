@@ -31,18 +31,15 @@
 
 I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
+I am a team player as well as an independent member. A self-motivated, a lifelong learner who is constantly keen to increase my knowledge and abilities.
+
 I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
-
-I am willing to enhancing my potential contributions to the automotive embedded engineering domain. I am good at teamwork, which is crucial in automotive industry. Also, I am a self-motivated, able to work independently, a lifelong learner who is constantly keen to increase my knowledge and abilities.
-
-Right now, I am working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
 Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
 ---
 
 ## Skills and competencies
-
 
 - Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA
 - Communication Protocol: CAN, UART, I2C, SPI
@@ -57,7 +54,6 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Engineering technique: FMEA, DBRFM, Requirement Engineering
 - Good English language skills (Reading, Writing, Speaking and Listening)
 
-
 ---
 ## Work experiences
 
@@ -66,14 +62,13 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
 
-**responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team.
+**responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team. working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
 **topic:**
 
-- ECU-Test base test package for validating UDS Services
-- UDS/KWP/WWHOBD Services implementation.
-- UDS/KWP/WWHOBD Protocol implementation.
-- Customer Bootloader for Flashing via Customer specific tool.
+- ECU-Test base test package for validating UDS Services: ISO 26565, ISO 14229 plus customer specific.
+- Comunication and Diagnostic functionality developement for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
+- Apply, Encourge Teamber to enhance software quality with CleanCode mindset.
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
@@ -84,8 +79,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 **topic:**
 
-- Implement new and adjust exist CAN frame for communication module across ECU on CAN topology
-- Implement new and adjust UDS/KWP Diagnostic Message, Functionality for specific OEM requirment.
+- Communication and Diagnostic Functionality developement for JOEM: UDS,KWP,J1939, CanStack, DiagStack.
+- inovation activity coordinator
 
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
@@ -107,8 +102,6 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
 - write firmware for ESP8266 and Stm32f103 (C language).
-- Design PCB, enclosure, and design 3d model for prototyping.
-- Operating CNC machine to engrave PCB
 
 ---
 
