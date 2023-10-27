@@ -6,7 +6,7 @@
 <div class="personalinfo">
   <div class="column" id="leftcol">
     <h1 class="name">Doan Truong Xuan</h1>
-    <h6 id="-embedded-software-engineer"> Embedded Software Engineer</h6>
+    <h6 class="subname"> Embedded Software Engineer</h6>
   </div>
   <div class="column" id="rightcol">
     <!-- phone -->
@@ -20,8 +20,7 @@
     <!-- email -->
     <h6 class="info" id="mail"><img src="https://cdn-icons-png.flaticon.com/128/646/646094.png" alt="icon" /> <a href="mailto:dtruongxuan.cdt@gmail.com">dtruongxuan.cdt@gmail.com</a></h6>
     <!-- address -->
-    <h6 class="info" id="city"><img src="https://cdn-icons-png.flaticon.com/128/535/535239.png" alt="icon" />
-    Hochiminh city</h6>
+    <h6 class="info"><img src="https://cdn-icons-png.flaticon.com/128/535/535239.png" alt="icon" />Hochiminh city</h6>
   </div>
 </div>
 
