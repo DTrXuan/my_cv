@@ -9,15 +9,13 @@
 
 /* global: alternative font Garamond Georgia*/
 body {display: flex; color: #282828; font-family: Garamond; font-size: 68%; color: #19324f;}
-img[alt = "icon"]{max-height: 10px; height: 8%;}
+img[alt = "icon"]{max-height: 9px; height: 8%;}
 div#main {background-color: #ffffff;}
-div#content {background-color: #ffffff; border-style: solid; border-width: 2px; border-color: #92a6db; padding-inline: 2%; margin-left: 10%;margin-right: 10%;}
+div#content {background-color: #ffffff; padding-inline: 2%; margin-left: 5%;margin-right: 5%;}
 code { font: normal normal;	font-size: 90%; font-style: italic; font-family: monospace; color: #34639a;}
 
 /* skill and competencies */
-.skill-grid { display: grid;   grid-template-columns: auto auto; align-items: center; margin-top: 2%;}
-.skil#radar {grid: 60%; border-left: 2px #414141; margin-left: 10%; align-content: end;}
-.skil#list {grid: 40%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
+.skill-grid { display: grid; grid-template-columns: 30% auto; align-items: center; margin-top: 2%;}
 .skill img{
     height: 100%;
     width: 100%;
@@ -34,5 +32,5 @@ h5 {font-size: 100%; margin-top: 0%;margin-bottom: 0%}
 p { font-size: 100%; margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li {font-size: 100%;margin: 1%;}
-ul {margin: 0%;}
+li {font-size: 100%;margin: 0.5%;}
+ul {margin-left: -1%; margin-top: 0; margin-bottom: 0;}

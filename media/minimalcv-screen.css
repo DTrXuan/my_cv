@@ -15,14 +15,15 @@ div#content {background-color: #ffffff; border-style: solid; border-width: 2px; 
 code { font: normal normal;	font-size: 90%; font-style: italic; font-family: monospace; color: #34639a;}
 
 /* skill and competencies */
-.skill-grid { display: grid;   grid-template-columns: auto auto; align-items: center; margin-top: 2%;}
-.skil#radar {flex: 60%; border-left: 2px #414141; margin-left: 10%; align-content: end;}
-.skil#list {flex: 40%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
+.skill-grid { display: grid; grid-template-columns: 30% auto; align-items: center; margin-top: 2%;}
+.skil#radar {border-left: 2px #414141; margin-left: 10%; align-content: end;}
+.skil#list {border-right: 2px #414141; border-right-style: dashed; align-content: center;}
 .skill img{
     height: 100%;
     width: 100%;
     object-fit: contain;
 }
+
 
 /* //-- core typography and style -- */
 /* body */
