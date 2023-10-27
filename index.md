@@ -30,26 +30,47 @@
 
 I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
-I am a team player as well as an independent member. I am profiency working in English and have process and quality awareness in software development. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
-
-Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
-
 ---
 
 ## Skills and competencies
 
-- Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA
-- Communication Protocol: CAN, UART, I2C, SPI
-- Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD, XCP
-- Programming Languages: C/C++, CAPL, Python
-- Microcontroller programming: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino), PIC.
-- Software Component Design & Development: ETAS ASCET
-- Real-time operating systems (RTOS)
-- Modelling/Simulation Tools: Synopsys SILVER
-- Version control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM)
-- Requirements engineering tool: IBM DOORS
-- Engineering technique: FMEA, DBRFM, Requirement Engineering
-- Good English language skills (Reading, Writing, Speaking and Listening)
+<div class="skill-grid">
+
+  <div class="skill" id="radar">
+    <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1554802213&format=image">
+  </div>
+
+  <div class="skill" id="list">
+    <ul id="techskill-intro"> I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field. such as:</ul>
+    <ul>
+      <li>Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA </li>
+      <li>Protocol: CAN, UART, I2C, SPI </li>
+      <li>Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD, XCP </li>
+      <li>Version control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM) </li>
+      <li>Programming Languages: C/C++, CAPL, Python </li>
+      <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino). </li>
+      <li>Software Component Design & Development: ETAS ASCET </li>
+      <li>Real-time operating systems (RTOS) </li>
+      <li>Modelling/Simulation Tools: Synopsys SILVER </li>
+      <li>Requirements engineering tool: IBM DOORS </li>
+      <li>Engineering technique: FMEA, DBRFM, Requirement Engineering </li>
+    </ul>
+  </div>  
+
+  <div class="skill" id="radar">
+    <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1023333345&format=image">
+  </div>
+
+  <div class="skill" id="list">
+    <ul>
+        <li>I am a team player as well as an independent member. </li>
+        <li>I am profiency working in English and have process and quality awareness in software development.</li>
+        <li> Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways. </li>
+    </ul>
+  </div>
+
+</div>
+
 
 ---
 

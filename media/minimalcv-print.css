@@ -14,15 +14,21 @@ div#main {background-color: #ffffff;}
 div#content {background-color: #ffffff; border-style: solid; border-width: 2px; border-color: #92a6db; padding-inline: 2%; margin-left: 10%;margin-right: 10%;}
 code { font: normal normal;	font-size: 90%; font-style: italic; font-family: monospace; color: #34639a;}
 
+/* skill and competencies */
+.skill-grid { display: grid;   grid-template-columns: auto auto; align-items: center; margin-top: 2%;}
+.skil#radar {flex: 60%; border-left: 2px #414141; margin-left: 10%; align-content: end;}
+.skil#list {flex: 40%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
+img#softskill{ height: 5%; width: 5%;}
+
 /* //-- core typography and style -- */
 /* body */
 h2 {font-size: 150%; margin: 0%; padding-left: -5%; color:#0086b2 ; padding-left: 2%; margin-left: -3%;margin-right: -3%;}
 h3.company { font-size: 120%; margin-top: 1%; margin-bottom: 0; }
 h4 { font-size: 90%; margin: 0%; font-style: normal;}
 h1, h2, h3, h4 { color: #414141;}
-h5 {font-size: 110%; margin-top: 0%;margin-bottom: 0%}
-p { font-size: 110%; margin-top: 1%; margin-bottom: 1%;}
+h5 {font-size: 100%; margin-top: 0%;margin-bottom: 0%}
+p { font-size: 100%; margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li {font-size: 110%}
+li {font-size: 100%;margin: 1%;}
 ul {margin: 0%;}
