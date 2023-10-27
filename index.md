@@ -31,7 +31,7 @@
 
 I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
-I am a team player as well as an independent member. I am profiency working in English and have process and quality awareness in software development. I am strong in programming skills, knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
+I am a team player as well as an independent member. I am profiency working in English and have process and quality awareness in software development. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field.
 
 Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
@@ -53,6 +53,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Good English language skills (Reading, Writing, Speaking and Listening)
 
 ---
+
 ## Work experiences
 
 {:.company}
