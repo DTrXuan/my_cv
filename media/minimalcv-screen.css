@@ -18,7 +18,11 @@ code { font: normal normal;	font-size: 90%; font-style: italic; font-family: mon
 .skill-grid { display: grid;   grid-template-columns: auto auto; align-items: center; margin-top: 2%;}
 .skil#radar {flex: 60%; border-left: 2px #414141; margin-left: 10%; align-content: end;}
 .skil#list {flex: 40%; border-right: 2px #414141; border-right-style: dashed; align-content: center;}
-img#softskill{ height: 30%; width: 30%;}
+.skill img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
 
 /* //-- core typography and style -- */
 /* body */

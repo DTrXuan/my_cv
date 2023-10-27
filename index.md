@@ -43,15 +43,13 @@ I have four years of experience as an Automotive Embedded Engineer. I am good at
   <div class="skill" id="list">
     <ul id="techskill-intro"> I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field. such as:</ul>
     <ul>
-      <li>Debugging/Testing tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA </li>
+      <li>tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA, ETAS ASCET</li>
       <li>Protocol: CAN, UART, I2C, SPI </li>
       <li>Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD, XCP </li>
       <li>Version control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM) </li>
       <li>Programming Languages: C/C++, CAPL, Python </li>
       <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino). </li>
-      <li>Software Component Design & Development: ETAS ASCET </li>
       <li>Real-time operating systems (RTOS) </li>
-      <li>Modelling/Simulation Tools: Synopsys SILVER </li>
       <li>Requirements engineering tool: IBM DOORS </li>
       <li>Engineering technique: FMEA, DBRFM, Requirement Engineering </li>
     </ul>
@@ -81,7 +79,7 @@ I have four years of experience as an Automotive Embedded Engineer. I am good at
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
 
-**responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. I also make software architectural decisions for the specific package and ensure that component design aligns with the overall software architecture. I'm responsible for defining the visible variances in projects. Additionally, I oversee Change Request Management within the Function Development Team. working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
+**responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. Make software architectural decisions for my package and ensure that component design aligns with the overall software architecture. Additionally, I oversee Change Request Management within the Function Development Team. Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
 **topic:**
 
