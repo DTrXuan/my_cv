@@ -28,11 +28,11 @@
 
 ## About
 
-I have four years of experience as an Automotive Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+An Automotive Embedded Engineer with four years of experience. 
 
-I am profiency working in English and have process and quality awareness in software development.
+I am profiency working in English and have process and quality awareness in software development. My knowledge in communication protocols, diagnostic standards, and hardware design helps me to excel in enhancing software for car engines and denox systems.
 
-Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
+Off-duty, I enjoy trying new technologies, DIY or pet-project. This hobby enabling me to apply my engineering skills in innovative and practical ways.
 
 ---
 
@@ -40,20 +40,20 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 <div class="skill-grid">
 
-  <div class="skill" id="radar">
+  <!-- <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1554802213&format=image">
   </div>
 
   <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1023333345&format=image">
-  </div>
+  </div> -->
 
   <div class="skill" id="list">
     <ul>
       <li>tools: UDE(PLS), oscilloscopes, CANoe, CANalyzer, ETAS (INCA, ASCET)</li>
       <li>SCM tool: Git (GitHub, Bitbucket), SVN, eASEE (Vector) </li>
       <li>Protocol: CAN, UART, I2C, SPI </li>
-      <li>Standard: AUTOSAR, ASPICE, MISRA, ISO 14229, ISO 14230 </li>
+      <li>Standard: AUTOSAR, ASPICE, MISRA </li>
       <li>Programming Languages: C/C++, CAPL, Python </li>
     </ul>
   </div>
@@ -77,11 +77,11 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
 
-**responsibility:** My primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. Make software architectural decisions for my package and ensure that component design aligns with the overall software architecture. Additionally, I oversee Change Request Management within the Function Development Team. Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
+**responsibility:** Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool. Ensure the delivery of packages. Analyse Requreiment/issue, debugging if needed, then estimation effort and make delivery plan. Ensure design aligns with the software architecture and sastify Requirement by join review, conduct testing.
 
 **topic:**
 
-- ECU-Test base test package for validating UDS Services: ISO 26565, ISO 14229 plus customer specific.
+- ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
 - Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
 - Software Quality Improvement through CleanCode mindset: insipring, training member to apply.
 
@@ -94,11 +94,11 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 **topic:**
 
-- Communication and Diagnostic Functionality developement and testing for JOEM: UDS,KWP,J1939, CanStack, DiagStack.
+- Developement, Enhancement, and maintainance Communication and Diagnostic functionality for ECU/DCU for JOEMs
 - Inovation activity:
-    - Battery and Key ECU Remote Control for remote testing.
-    - Security Unlock Dll File Generation using ETAS BOA API
-    - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
+  - Battery and Key ECU Remote Control for remote testing.
+  - Security Unlock Dll File Generation using ETAS BOA API
+  - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
 
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip

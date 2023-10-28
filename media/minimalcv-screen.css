@@ -16,8 +16,8 @@ code { font: normal normal;	font-size: 90%; font-style: italic; font-family: mon
 
 /* skill and competencies */
 .skill-grid {display: grid; grid-template-columns: 50% auto; margin-top: 1%; grid-row: auto; align-items: center;}
-.skil#radar{align-items: start; padding-bottom: -10%;}
-.skil#list {align-items: start;}
+.skill#radar{align-items: start; padding-bottom: -10%;}
+.skill#list {align-self: start;}
 .skill img{
     height: 90%;
     width: 90%;
@@ -37,4 +37,4 @@ p {margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li {margin: 0.5%;}
-ul {margin: 0%; margin-left: -1%;}
+ul {margin: 0%; margin-left: -3%;}

@@ -8,7 +8,7 @@
 .info { font-size: 90%; align-content: center; align-items: center; text-align: left; margin: 0%;}
 
 /* global: alternative font Garamond Georgia*/
-body {display: flex; color: #282828; font-family: Garamond; font-size: 9pt; color: #19324f;}
+body {display: flex; color: #282828; font-family: Garamond; font-size: 10pt; color: #19324f;}
 img[alt = "icon"]{max-height: 9px; height: 8%;}
 div#main {background-color: #ffffff;}
 div#content {background-color: #ffffff; padding-inline: 2%; margin-left: 5%;margin-right: 5%;}
@@ -17,11 +17,11 @@ code { font: normal normal;	font-size: 90%; font-style: italic; font-family: mon
 
 /* skill and competencies */
 .skill-grid {display: grid; grid-template-columns: 50% auto; margin-top: 1%; grid-row: auto; align-items: center;}
-.skil#radar{padding-bottom: -10%;}
-.skil#list {align-items: start; align-content: start; align-self: self-start;}
+.skill#radar{align-items: start; padding-bottom: -10%;}
+.skill#list {align-self: start;}
 .skill img{
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 90%;
     object-fit: contain;
     margin: 0%;
 }
@@ -38,4 +38,4 @@ p {margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li {margin: 0.5%;}
-ul {margin: 0%; margin-left: -1%;}
+ul {margin: 0%; margin-left: -3%;}
