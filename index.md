@@ -77,7 +77,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Senior Embedded Software Engineer `October 2022 - Present`
 
-**responsibility:** my primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. Make software architectural decisions for my package and ensure that component design aligns with the overall software architecture. Additionally, I oversee Change Request Management within the Function Development Team. Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
+**responsibility:** My primary role is to ensure the delivery of packages, which includes documentation and ensuring readiness for integration. I coordinate effort estimations and plan package deliveries. Make software architectural decisions for my package and ensure that component design aligns with the overall software architecture. Additionally, I oversee Change Request Management within the Function Development Team. Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool.
 
 **topic:**
 
@@ -90,7 +90,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Embedded Software Engineer `September 2020 - October`
 
-**responsiblity:** involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
+**responsiblity:** Involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
 
 **topic:**
 
