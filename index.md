@@ -28,7 +28,11 @@
 
 ## About
 
-I'm a four-year experienced Automotive Embedded Engineer proficient in English, with process and quality awareness in software development. My expertise in communication protocols, diagnostic standards, and hardware design enables me to excel in enhancing automotive software.
+I have four years of experience as an Automotive Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+
+I am profiency working in English and have process and quality awareness in software development.
+
+Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
 ---
 
