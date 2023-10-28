@@ -28,11 +28,7 @@
 
 ## About
 
-An Automotive Embedded Engineer with four years of experience. 
-
-I am profiency working in English and have process and quality awareness in software development. My knowledge in communication protocols, diagnostic standards, and hardware design helps me to excel in enhancing software for car engines and denox systems.
-
-Off-duty, I enjoy trying new technologies, DIY or pet-project. This hobby enabling me to apply my engineering skills in innovative and practical ways.
+I'm a four-year experienced Automotive Embedded Engineer proficient in English, with process and quality awareness in software development. My expertise in communication protocols, diagnostic standards, and hardware design enables me to excel in enhancing automotive software.
 
 ---
 
@@ -40,13 +36,13 @@ Off-duty, I enjoy trying new technologies, DIY or pet-project. This hobby enabli
 
 <div class="skill-grid">
 
-  <!-- <div class="skill" id="radar">
+  <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1554802213&format=image">
   </div>
 
   <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1023333345&format=image">
-  </div> -->
+  </div>
 
   <div class="skill" id="list">
     <ul>
