@@ -5,7 +5,9 @@
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
+  {% endif %}
 </head>
 <body>
   <div id="main">

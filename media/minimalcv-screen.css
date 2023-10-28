@@ -8,7 +8,7 @@
 .info { font-size: 90%; align-content: center; align-items: center; text-align: left; margin: 0%;}
 
 /* global: alternative font Garamond Georgia*/
-body {display: flex; color: #282828; font-family: Garamond; font-size: 14px; color: #19324f;}
+body {display: flex; color: #282828; font-family: Garamond; font-size: 20px; color: #19324f;}
 img[alt = "icon"]{max-height: 17px; height: 10%;}
 div#main {background-color: #ffffff;}
 div#content {background-color: #ffffff; border-style: solid; border-width: 2px; border-color: #92a6db; padding-inline: 2%; margin-left: 10%;margin-right: 10%;}
@@ -29,11 +29,11 @@ code { font: normal normal;	font-size: 90%; font-style: italic; font-family: mon
 /* body */
 h2 {font-size: 150%; margin: 0%; padding-left: -5%; color:#0086b2 ; padding-left: 2%; margin-left: -3%;margin-right: -3%;}
 h3.company { font-size: 120%; margin-top: 1%; margin-bottom: 0; }
-h4 { font-size: 90%; margin: 0%; font-style: normal;}
+h4 {margin: 0%; font-style: normal;}
 h1, h2, h3, h4 { color: #414141;}
-h5 {font-size: 100%; margin-top: 0%;margin-bottom: 0%}
-p { font-size: 100%; margin-top: 1%; margin-bottom: 1%;}
+h5 {margin-top: 0%;margin-bottom: 0%}
+p {margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li {font-size: 100%;margin: 1%;}
+li {margin: 0.5%;}
 ul {margin: 0%;}
