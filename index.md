@@ -28,7 +28,11 @@
 
 ## About
 
-I have four years of experience as an Automotive Embedded Engineer. I am good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+I have four years of experience as an Automotive Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+
+I am profiency working in English and have process and quality awareness in software development.
+
+Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways.
 
 ---
 
@@ -40,33 +44,27 @@ I have four years of experience as an Automotive Embedded Engineer. I am good at
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1554802213&format=image">
   </div>
 
-  <div class="skill" id="list">
-    <ul id="techskill-intro"> I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me a valuable asset in the field. such as:</ul>
-    <ul>
-      <li>tools: debugger UDE (PLS), oscilloscopes, CANoe, CANalyzer, ETAS INCA, ETAS ASCET</li>
-      <li>Protocol: CAN, UART, I2C, SPI </li>
-      <li>Standard: AUTOSAR, ASPICE, MISRA, ISO 26262, UDS, KWP, OBD/WWHOBD, XCP </li>
-      <li>Version control: Git (GitHub, Bitbucket), SVN, eASEE (Vector SCM) </li>
-      <li>Programming Languages: C/C++, CAPL, Python </li>
-      <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino). </li>
-      <li>Real-time operating systems (RTOS) </li>
-      <li>Requirements engineering tool: IBM DOORS </li>
-      <li>Engineering technique: FMEA, DBRFM, Requirement Engineering </li>
-    </ul>
-  </div>  
-
   <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1023333345&format=image">
   </div>
 
   <div class="skill" id="list">
     <ul>
-        <li>I am a team player as well as an independent member. </li>
-        <li>I am profiency working in English and have process and quality awareness in software development.</li>
-        <li> Outside of work, I enjoy trying new technologies and engaging in hands-on projects as a DIY or investigating OpenSource. This hobby helps my professional learning journey, enabling me to apply my engineering skills in innovative and practical ways. </li>
+      <li>tools: UDE(PLS), oscilloscopes, CANoe, CANalyzer, ETAS (INCA, ASCET)</li>
+      <li>SCM tool: Git (GitHub, Bitbucket), SVN, eASEE (Vector) </li>
+      <li>Protocol: CAN, UART, I2C, SPI </li>
+      <li>Standard: AUTOSAR, ASPICE, MISRA, ISO 14229, ISO 14230 </li>
+      <li>Programming Languages: C/C++, CAPL, Python </li>
     </ul>
   </div>
-
+  <div class="skill" id="list">
+    <ul>
+      <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino). </li>
+      <li>Real-time operating systems (RTOS) </li>
+      <li>Requirements engineering tool: IBM DOORS </li>
+      <li>Engineering technique: FMEA, DBRFM, Requirement Engineering </li>
+    </ul>
+  </div>
 </div>
 
 

@@ -15,13 +15,14 @@ div#content {background-color: #ffffff; border-style: solid; border-width: 2px; 
 code { font: normal normal;	font-size: 90%; font-style: italic; font-family: monospace; color: #34639a;}
 
 /* skill and competencies */
-.skill-grid { display: grid; grid-template-columns: 30% auto; align-items: center; margin-top: 2%;}
-.skil#radar {border-left: 2px #414141; margin-left: 10%; align-content: end;}
-.skil#list {border-right: 2px #414141; border-right-style: dashed; align-content: center;}
+.skill-grid {display: grid; grid-template-columns: 50% auto; margin-top: 1%; grid-row: auto; align-items: center;}
+.skil#radar{align-items: start; padding-bottom: -10%;}
+.skil#list {align-items: start;}
 .skill img{
-    height: 100%;
-    width: 100%;
+    height: 90%;
+    width: 90%;
     object-fit: contain;
+    margin: 0%;
 }
 
 
@@ -36,4 +37,4 @@ p {margin-top: 1%; margin-bottom: 1%;}
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li {margin: 0.5%;}
-ul {margin: 0%;}
+ul {margin: 0%; margin-left: -1%;}
