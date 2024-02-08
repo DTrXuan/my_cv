@@ -28,7 +28,7 @@
 
 ## About
 
-I have four years of experience as an Automotive Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+I have 3+ years of experience as an Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
 I am profiency working in English and have process and quality awareness in software development.
 
@@ -40,13 +40,13 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 <div class="skill-grid">
 
-  <div class="skill" id="radar">
+  <!-- <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1554802213&format=image">
   </div>
 
   <div class="skill" id="radar">
     <img id="skillchart" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRow6elvEXNYP5pyL0kCpw5OS6EotoG_N3w-xNcVqxylXjLQ6C2U7stANuXF1-8WJaUf98EOxkRzyPr/pubchart?oid=1023333345&format=image">
-  </div>
+  </div> -->
 
   <div class="skill" id="list">
     <ul>
@@ -54,7 +54,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
       <li>SCM tool: Git (GitHub, Bitbucket), SVN, eASEE (Vector) </li>
       <li>Protocol: CAN, UART, I2C, SPI </li>
       <li>Standard: AUTOSAR, ASPICE, MISRA </li>
-      <li>Programming Languages: C/C++, CAPL, Python </li>
+      <li>Programming Languages: C/C++ </li>
+      <li>additional: Python, CAPL script, C#</li>
     </ul>
   </div>
   <div class="skill" id="list">
