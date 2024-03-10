@@ -26,7 +26,7 @@
 
 ---
 
-## About
+## ABOUT ME
 
 I have 3+ years of experience as an Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
@@ -36,7 +36,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ---
 
-## Skills and competencies
+## COMPETENCY
 
 <div class="skill-grid">
 
@@ -50,7 +50,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
   <div class="skill" id="list">
     <ul>
-      <li>tools: UDE(PLS), oscilloscopes, CANoe, CANalyzer, ETAS (INCA, ASCET)</li>
+      <li>Debugger: UDE(PLS), oscilloscopes, CANoe, CANalyzer, ETAS (INCA, ASCET), STLINK, GDB</li>
       <li>SCM tool: Git (GitHub, Bitbucket), SVN, eASEE (Vector) </li>
       <li>Protocol: CAN, UART, I2C, SPI </li>
       <li>Standard: AUTOSAR, ASPICE, MISRA </li>
@@ -60,7 +60,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
   </div>
   <div class="skill" id="list">
     <ul>
-      <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), STM32, AVR (Atmega arduino). </li>
+      <li>Microcontroller: infineon AURIX™ Family (Tc39x, Tc29x), Renasas (Rh850), ARM (STM32), AVR (Atmega arduino). </li>
       <li>Real-time operating systems (RTOS) </li>
       <li>Requirements engineering tool: IBM DOORS </li>
       <li>Engineering technique: FMEA, DBRFM, Requirement Engineering </li>
@@ -71,7 +71,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ---
 
-## Work experiences
+## EXPERIENCE
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
@@ -124,12 +124,12 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 ---
 
-## Education
+## EDUCATION
 
 {:.company}
 ### Industrial University of Ho Chi Minh City
 
 #### Engineer's degree, MechatronicsEngineer's degree, Mechatronics `2015 - 2020`
-
+- GPA: 3/4
 <br>
 <br>
