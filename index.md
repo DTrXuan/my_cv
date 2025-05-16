@@ -78,11 +78,11 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 #### Embedded Software Engineer `September 2024 - Present`
 
-**responsibility:** Involved in Basic Software Platform development. Responsible for integrating BSW modules, maintaining, and migrating test application software to the customer's target MCU.
+**responsibility:** Involving to Basic Software Platform developement. Take responsibility to intergrate BSW module, maintain and migrate test application software into customer target MCU.
 
 **topic:**
- Bring up BSW platform to customer target MCU: TC39x, RH850 (F1KM, U2A...), NXP (S32K),
- **tool/skill**: Trace32 Debugger, CANoe, Jenkin, C programming, Python, Eclipse
+- Bring up BSW platform to customer target MCU: TC39x, RH850 (F1KM, U2A...), NXP (S32K),
+- **tool/skill**: Trace32 Debugger, CANoe, Jenkin, C programming, Python, Eclipse
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
@@ -92,14 +92,14 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 **responsiblity:**  Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool. Ensure the delivery of packages. Analyse Requreiment/issue, debugging if needed, then estimation effort and make delivery plan. Ensure design aligns with the software architecture and sastify Requirement by join review, conduct testing.
 
 **topic:**
- Developement, Enhancement, and maintainance Communication and Diagnostic functionality for ECU/DCU for JOEMs
- Inovation activity:
-   Battery and Key ECU Remote Control for remote testing.
-   Security Unlock Dll File Generation using ETAS BOA API
-   CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
- ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
- Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
- **Tool/skill**:  C programing, Python, unit test, UDE debugger, CAN testing, Eclipse
+- Developement, Enhancement, and maintainance Communication and Diagnostic functionality for ECU/DCU for JOEMs
+- Inovation activity:
+  - Battery and Key ECU Remote Control for remote testing.
+  - Security Unlock Dll File Generation using ETAS BOA API
+  - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
+- ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
+- Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
+- **Tool/skill**:  C programing, Python, unit test, UDE debugger, CAN testing, Eclipse
   
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
@@ -108,7 +108,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 **Responsiblity**
 
- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
+- Responsible for testing printed circuit boards (PCB) to make sure that they are working properly as per its specification.
 
 {:.company}
 ### ![icon](https://tanthanh-tech.vn/wp-content/uploads/2021/07/tech-logo-ko-nen-ngang-1.png) TanThanh-Tech Co.Ltd
@@ -118,10 +118,9 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 
 **Responsiblity**
 
- Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
- write firmware for ESP8266 and Stm32f103 (C language).
- **Tool/skill**: Altium Designer, Arduino IDE, STM32 Cube.
- 
+- Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
+- write firmware for ESP8266 and Stm32f103 (C language).
+- **Tool/skill**: Altium Designer, Arduino IDE
 ---
 
 ## EDUCATION
