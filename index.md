@@ -72,12 +72,14 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ---
 
 ## EXPERIENCE
+
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/2/29/FPT_Software_Logo.png?20181018093943) FPT software
 
 #### Embedded Software Engineer `September 2024 - Present`
 
 **responsibility:** Involving to Basic Software Platform developement. Take responsibility to intergrate BSW module, maintain and migrate test application software into customer target MCU.
+
 **topic:**
 - ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
 - Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
