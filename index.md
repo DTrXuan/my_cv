@@ -28,7 +28,7 @@
 
 ## ABOUT ME
 
-I have 3+ years of experience as an Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
+I have 4+ years of experience as an Embedded Engineer. I have strong knowledge in communication protocol, and diagnostic standard along with my understanding of hardware design, make me good at creating, testing , verifying and validating to enhance software for car engines and denox systems.
 
 I am profiency working in English and have process and quality awareness in software development.
 
@@ -74,16 +74,16 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ## EXPERIENCE
 
 {:.company}
-### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/2/29/FPT_Software_Logo.png?20181018093943) FPT software
+### ![icon](https://upload.wikimedia.org/wikipedia/commons/2/29/FPT_Software_Logo.png) FPT Software
 
 #### Embedded Software Engineer `September 2024 - Present`
 
 **responsibility:** Involving to Basic Software Platform developement. Take responsibility to intergrate BSW module, maintain and migrate test application software into customer target MCU.
 
 **topic:**
-- ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
-- Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
-- Software Quality Improvement through CleanCode mindset: insipring, training member to apply.
+- Bring up BSW platform to customer target MCU: TC39x, RH850 (F1KM, U2A...), NXP (S32K),
+**tool/skill**
+  Trace32 Debugger, CANoe, Jenkin, C programming, Python, Eclipse
 
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
@@ -100,6 +100,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
   - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
 - ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
 - Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
+**Tool/skill:**
+  C programing, Python, unit test, UDE debugger, CAN testing, Eclipse
   
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
@@ -121,6 +123,8 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
 - write firmware for ESP8266 and Stm32f103 (C language).
 
+**Tool/skill**
+  Altium Designer, Arduino IDE, 
 ---
 
 ## EDUCATION
