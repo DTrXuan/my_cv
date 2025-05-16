@@ -121,6 +121,7 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 - Research and Develop the PLC wireless control device -The module which can control and log data from PLC via the internet (prototype version):
 - write firmware for ESP8266 and Stm32f103 (C language).
 - **Tool/skill**: Altium Designer, Arduino IDE
+- 
 ---
 
 ## EDUCATION
