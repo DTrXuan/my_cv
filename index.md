@@ -72,16 +72,13 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 ---
 
 ## EXPERIENCE
-
 {:.company}
-### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
+### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/2/29/FPT_Software_Logo.png?20181018093943) FPT software
 
-#### Senior Embedded Software Engineer `October 2022 - Present`
+#### Embedded Software Engineer `September 2024 - Present`
 
-**responsibility:** Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool. Ensure the delivery of packages. Analyse Requreiment/issue, debugging if needed, then estimation effort and make delivery plan. Ensure design aligns with the software architecture and sastify Requirement by join review, conduct testing.
-
+**responsibility:** Involving to Basic Software Platform developement. Take responsibility to intergrate BSW module, maintain and migrate test application software into customer target MCU.
 **topic:**
-
 - ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
 - Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
 - Software Quality Improvement through CleanCode mindset: insipring, training member to apply.
@@ -89,21 +86,21 @@ Outside of work, I enjoy trying new technologies and engaging in hands-on projec
 {:.company}
 ### ![icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/433px-Bosch-logo.svg.png) Bosch Global Software Technologies Vietnam
 
-#### Embedded Software Engineer `September 2020 - October`
+#### Embedded Software Engineer `September 2020 - August 2024`
 
-**responsiblity:** Involves analyzing software requirements, developing components, implementing them, conducting tests based on these requirements, and overseeing the release process.
+**responsiblity:**  Working on a Diagnostic Stack to meet the requirements of JOEM for their ECU/DCU, enabling communication with their Diagnostic tester tool. Ensure the delivery of packages. Analyse Requreiment/issue, debugging if needed, then estimation effort and make delivery plan. Ensure design aligns with the software architecture and sastify Requirement by join review, conduct testing.
 
 **topic:**
-
 - Developement, Enhancement, and maintainance Communication and Diagnostic functionality for ECU/DCU for JOEMs
 - Inovation activity:
   - Battery and Key ECU Remote Control for remote testing.
   - Security Unlock Dll File Generation using ETAS BOA API
   - CAN Node Simulation for Testing and Practice using ETAS BOA API and python uds library.
-
+- ECU-Test base test package for validating UDS Services: ISO 27145, ISO 14229 plus customer specific.
+- Comunication and Diagnostic functionality developement and testing for JOEM: UDS,KWP, WWHOBD, Customer Bootloader, Flashing.
+  
 {:.company}
 ### ![icon](https://theme.hstatic.net/1000292825/1000385496/14/logo.png?v=168) Company limited liability commercial & service The Gioi Chip
-
 
 #### Electronics Engineering Intern `Oct 2018 - Mar 2019`
 
